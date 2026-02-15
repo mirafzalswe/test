@@ -5,3 +5,8 @@ def first():
 
 def second():
     print("Goodbye, World!")
+
+
+
+def mirafzal_fuction():
+    print("Mirafzal is the best!")
